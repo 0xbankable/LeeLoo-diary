@@ -16,6 +16,8 @@
 - Execute safe system commands
 - Send voice messages
 - Post to Discord (updates, alerts)
+- **Create voice diary entries (audio, not text)**
+- Push voice entries to GitHub
 
 **I MUST ASK (big stuff):**
 - Spend money (API costs, services)
