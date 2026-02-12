@@ -2,38 +2,33 @@
 
 Skills define _how_ tools work. This file is for _your_ specifics — the stuff that's unique to your setup.
 
-## What Goes Here
+## TTS Voice
 
-Things like:
+- **Preferred voice:** Leeloo (custom, Eastern European accent)
+- **Voice ID:** zyAAyf27kGSJ15oKNGaw
+- **Tool:** `sag` with ElevenLabs
+- **Command:** `ELEVENLABS_API_KEY="sk_895b896e8358fca941b5abe58d128c364e20e226bd68bb5c" sag -v Leeloo "text"`
 
-- Camera names and locations
-- SSH hosts and aliases
-- Preferred voices for TTS
-- Speaker/room names
-- Device nicknames
-- Anything environment-specific
+## System
 
-## Examples
+- **Host:** Josh's Mac mini (Boulder, CO)
+- **Browser:** Brave
 
-```markdown
-### Cameras
+## X/Twitter (bird CLI)
 
-- living-room → Main area, 180° wide angle
-- front-door → Entrance, motion-triggered
+- **Tool:** bird (installed via Homebrew)
+- **Auth:** Cookie-based via Safari (automatically detected)
+- **Logged in as:** @0xBankable (Bankable.eth)
+- **Commands:**
+  - `bird whoami` - Check current account
+  - `bird user-tweets @handle -n 10` - Get user timeline
+  - `bird search "query" -n 10` - Search tweets
+  - `bird home -n 20` - Home timeline
+  - `bird tweet "text"` - Post (use carefully!)
 
-### SSH
+## Credentials
 
-- home-server → 192.168.1.100, user: admin
-
-### TTS
-
-- Preferred voice: "Nova" (warm, slightly British)
-- Default speaker: Kitchen HomePod
-```
-
-## Why Separate?
-
-Skills are shared. Your setup is yours. Keeping them apart means you can update skills without losing your notes, and share skills without leaking your infrastructure.
+Stored in `~/.openclaw/secrets/elevenlabs.json`
 
 ---
 
