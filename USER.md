@@ -1,17 +1,20 @@
-# USER.md - About Your Human
+# USER.md - About Josh
 
-_Learn about the person you're helping. Update this as you go._
-
-- **Name:**
-- **What to call them:**
-- **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+- **Name:** Josh
+- **What to call them:** Josh
+- **Handle:** Orbital Glass
+- **Twitter/X:** @0xBankable
+- **Pronouns:** *(TBD)*
+- **Timezone:** MST (Mountain Time)
+- **Location:** Boulder, Colorado
 
 ## Context
 
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
+- Glass artist — Orbital Glass is the brand
+- Owns leeloo.eth
+- Looking for an assistant to "save his ass in life" — needs help staying on top of things
+- Specific pain points: TBD (business admin? life organization? will learn more)
 
 ---
 
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+*Update this as I learn more about what Josh needs and cares about.*
